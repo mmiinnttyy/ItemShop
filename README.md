@@ -1,12 +1,12 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+CID_491_Athena_Commando_M_BoneWasp, 1500
+CID_179_Athena_Commando_F_Scuba, 1500
+BID_076_Shark, 200
+Pickaxe_ID_017_Shark, 1500
 na
 na
-na
-MusicPack_039_Envy, 500
-Glider_ID_104_FuzzyBear, 1200
-EID_Fresh, 3500
-Wrap_139_Prismatic, 300
-EID_Floss, 5000
-CID_598_Athena_Commando_M_Mastermind, 1500
+EID_Boneless, 500
+Glider_ID_176_BlackMondayCape_4P79K, 1200
+BID_120_Werewolf, 500
+Pickaxe_ID_223_Jellyfish, 1200
+EID_MakeItRainV2, 500
+CID_315_Athena_Commando_M_TeriyakiFish, 1200
