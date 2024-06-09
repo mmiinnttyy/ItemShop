@@ -2,50 +2,50 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "AthenaPickaxe:Pickaxe_ID_017_Shark"
         ],
         "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "AthenaGlider:Glider_ID_026_ShuttleB"
         ],
-        "price": 500
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
+            "AthenaDance:EID_ElectroSwing"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Everytime"
+            "AthenaCharacter:CID_326_Athena_Commando_F_WavyMan"
         ],
-        "price": 700
+        "price": 1200
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+            "AthenaPickaxe:Pickaxe_ID_041_PajamaParty"
         ],
-        "price": 800
+        "price": 1200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "AthenaPickaxe:Glider_ID_223_JellyFish"
         ],
-        "price": 300
+        "price": 1200
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "AthenaCharacter:CID_491_Athena_Commando_M_BoneWasp"
         ],
-        "price": 2500
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "AthenaCharacter:CID_179_Athena_Commando_F_Scuba"
         ],
-        "price": 2000
+        "price": 1500
     }
-}
+} 
