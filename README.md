@@ -1,6 +1,6 @@
 CID_491_Athena_Commando_M_BoneWasp, 1500
 CID_179_Athena_Commando_F_Scuba, 1500
-BID_076_Shark, 700
+na
 na
 na
 na
