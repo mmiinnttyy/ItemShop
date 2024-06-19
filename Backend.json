@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_087_Athena_Commando_F_RedSilk"
+            "AthenaCharacter:CID_199_Athena_Commando_F_BlueSamurai"
         ],
-        "price": 800
+        "price": 2000
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_166_Shiny"
+            "AthenaPickaxe:Pickaxe_ID_041_PajamaParty"
         ],
-        "price": 800
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_SkeletonDance"
+            "AthenaDance:BID_069_DecoMale"
         ],
-        "price": 500
+        "price": 400
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_NeverGonna"
+            "Athena:Glider_ID_020_Fighter"
         ],
         "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_104_Math"
+            "AthenaPickaxe:Pickaxe_ID_223_Jellyfish"
         ],
-        "price": 800
+        "price": 1200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaBackpack:BID_273_AssassinSuitCoin"
+            "AthenaGlider:Glider_ID_122_Valentines"
         ],
         "price": 1000
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_292_Athena_Commando_F_Dieselpunk02"
+            "AthenaCharacter:CID_129_Athena_Commando_M_Deco"
         ],
-        "price": 1000
+        "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_076_DieselPunk"
+            "AthenaCharacter:CID_133_Athena_Commando_F_Deco"
         ],
-        "price": 800
+        "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaMusicPack:MusicPack_FMD", "AthenaMusicPack:MusicPack_JennifersBody"
+            "AthenaMusicPack:BID_070_DecoFemale"
         ],
-        "price": 2500
+        "price": 400
     }
 }
